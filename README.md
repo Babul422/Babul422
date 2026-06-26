@@ -3,10 +3,7 @@
 
 Email Me 👉 ✉️ **babulkr852117@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** narisakti
 - 🌱 **I’m currently learning:** typescript
-- 👯 **I’m looking to collaborate on:** movie hub
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**babulkr852117@gmail.com
 - 😄 **Pronouns:** Babul kumar
