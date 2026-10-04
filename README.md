@@ -28,10 +28,6 @@ Full-Stack Developer • AI/ML Enthusiast • Open Source Contributor
 
 I'm **Babul Kumar**, a Computer Science Engineering student and developer from India. I enjoy building real-world applications, solving programming problems, exploring AI/ML and contributing to open-source projects.
 
-* 🔭 Currently working on **[civicX](https://github.com/Babul422/civicx)**
-* 🌱 Currently learning **Generative AI**
-* 🤝 Looking to collaborate on **[PulseX-Health](https://github.com/Babul422/PulseX-Health)**
-* 💡 Looking for help with **[UltimateHealth](https://github.com/Babul422/UltimateHealth)**
 * 💬 Ask me about **Full-Stack Development**
 * 🧠 Improving **Data Structures & Algorithms**
 * 🌍 Interested in **Open Source, AI/ML and Developer Tools**
